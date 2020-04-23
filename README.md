@@ -10,8 +10,6 @@ performance of UIScrollView and without laggy onScroll events.
 ![Spotify style](http://i.imgur.com/5LaZvUQ.gif)
 ![Maps style](http://i.imgur.com/sfFI5CA.gif)
 
-Built to solve issues like <http://stackoverflow.com/questions/39995024/propagate-touch-events-through-scrollview>
-
 ## Installation
 Simply use `react-native link react-native-touch-through-view` to add the library
 to your project.
